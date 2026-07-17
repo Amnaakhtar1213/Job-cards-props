@@ -40,7 +40,7 @@ This app displays job openings as reusable **Card** components.
 
 ## LIVE DEMO 🌐
 
-- [Click here for live-demo]()
+- [Click here for live-demo](https://amnaakhtar1213.github.io/job-cards/)
 
 ---------
 
