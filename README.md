@@ -5,7 +5,7 @@ This app displays job openings as reusable **Card** components.
 
 ---
 
-## 🚀 Features ✨
+##  Features 🚀
 - Built with **React + Vite**
 - Uses **props** to pass data from `App.jxs` to `card.jsx`
 - Each card shows:
@@ -18,7 +18,7 @@ This app displays job openings as reusable **Card** components.
 
 ---
 
-## 📚 What I Learned
+## What I Learned  📚
 - How to create a reusable component (`Card.jsx`)
 - How to pass data using **props**:
   ```jsx
@@ -33,6 +33,14 @@ This app displays job openings as reusable **Card** components.
   />
 
  --------------------------
+
+ ## Technologies used ✨
+
+ - *React*
+ - *css*
+ - *props usage*
+
+-----------------------------
 
 ## How to Run 
 
