@@ -52,7 +52,8 @@ padding-bottom: 20px;
   align-items: center;
 }
 .top button i{
-color: rgb(105, 103, 103)
+color: rgb(105, 103, 103);
+margin-left: 2px;
 }
 .center span{
   font-size: 0.5rem;
