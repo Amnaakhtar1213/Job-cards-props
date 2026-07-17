@@ -46,15 +46,17 @@ This app displays job openings as reusable **Card** components.
 
 -------------------------
 
+## SCREENSHOT 📸
+
+- [Click here for screenshot for quick lookup](src/assets/ss.png)
+
+--------------------
+
 ## LIVE DEMO 🌐
 
 - [Click here for live-demo](https://amnaakhtar1213.github.io/job-cards/)
 
 ---------
-
-## SCREENSHOT 📸
-
-- [Click here for screenshot for quick lookup](src/assets/ss.png)
 
 ## Clone this Repository
 ```bash
