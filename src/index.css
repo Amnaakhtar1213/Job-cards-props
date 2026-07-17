@@ -46,14 +46,14 @@ padding-bottom: 20px;
   color: rgb(172, 170, 170);
   background-color: white;
   border-radius: 5px;
-  padding: 2px;
+  padding: 4px;
   font-size: 0.6rem;
   display: flex;
   align-items: center;
 }
 .top button i{
 color: rgb(105, 103, 103);
-margin-left: 2px;
+margin-left: 8px;
 }
 .center span{
   font-size: 0.5rem;
